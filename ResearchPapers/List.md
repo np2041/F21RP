@@ -5,6 +5,7 @@ List of Research Papers:
 - https://www.theseus.fi/bitstream/handle/10024/808509/Mangaonkar_Mahesh.pdf?sequence=2
 - https://www.researchgate.net/publication/282942257_New_approach_to_customer_segmentation_based_on_changes_in_customer_value
 - http://support.sas.com/resources/papers/proceedings12/103-2012.pdf
+- https://info2.magento.com/rs/magentosoftware/images/%20An_Introduction_to_Customer_Segmentation_ebook.pdf
 
 List of Articles:
 -
