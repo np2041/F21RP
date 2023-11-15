@@ -6,6 +6,8 @@ List of Research Papers:
 - https://www.researchgate.net/publication/282942257_New_approach_to_customer_segmentation_based_on_changes_in_customer_value
 - http://support.sas.com/resources/papers/proceedings12/103-2012.pdf
 - https://info2.magento.com/rs/magentosoftware/images/%20An_Introduction_to_Customer_Segmentation_ebook.pdf
+- https://www.sciencedirect.com/science/article/pii/S0148296321008213
+- 
 
 List of Articles:
 -
