@@ -9,3 +9,17 @@ To increase profits in marketing, communicating with the customers to identify t
 
 ### Data for Customer Segmentation:
 Customer or market segmentation to create successful model requires customer data from multiple sources. Magneto[] uses categorization on the data into internal and external data. 
+
+1.	Customer Engagement history, present and future.
+[ https://www.sciencedirect.com/science/article/pii/S0148296321008213]
+Customer engagement has been in the market for quite a long time, even though it did not become as prominent until 2010. And since then CE has grown exponentially in this past decade.
+
+Requirement and adaptation of better CE
+List future potential of CE and current factors
+AI for CE
+
+2.	Research in marketing strategy
+[https://link.springer.com/article/10.1007/s11747-018-0598-1]
+
+
+Git reset hard
