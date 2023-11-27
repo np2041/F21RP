@@ -6,4 +6,4 @@ Links for Datasets:
 - Github repo #2 for ref:
   https://github.com/abhinavsagar/kaggle-notebooks/blob/master/customer_segmentation.ipynb
   https://towardsdatascience.com/customer-segmentation-using-k-means-clustering-d33964f238c3 
-- [hjj](../Data/101.JPG)
+- ![hjj](../Data/101.JPG)
