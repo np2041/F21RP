@@ -10,6 +10,10 @@ Traditional customer segmentation methods primarily involve dividing a market in
 **Limitations of Conventional Approaches:**
 While these traditional methods have been effective in the past, they have certain limitations in the context of modern marketing dynamics. These methods often provide a static view of the customer base, failing to account for evolving customer behaviors and preferences. They also tend to generalize customers within each segment, overlooking individual differences within the same demographic or behavioral group. Moreover, these methods may not effectively leverage the vast amount of customer data available in the digital age.
 
+
+**Data Collection and Preprocessing**
+
+
 **2.2 Data Mining Techniques in Marketing:**
 
 **Need for a More Dynamic and Personalized Approach:**
