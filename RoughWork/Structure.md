@@ -1,4 +1,17 @@
-**2.2 Data Mining Techniques in Marketing:**
+**1 Abstract**
+
+**2.2 Literature Review:**
+
+**2.1 Customer Segmentation in Marketing:**
+
+**Traditional Customer Segmentation Methods:**
+Traditional customer segmentation methods primarily involve dividing a market into distinct groups of buyers who might require separate products or marketing mixes. These methods often rely on demographic, geographic, psychographic, and behavioral variables. For instance, customers might be segmented based on age, income, location, lifestyle, purchase history, etc.
+
+**Limitations of Conventional Approaches:**
+While these traditional methods have been effective in the past, they have certain limitations in the context of modern marketing dynamics. These methods often provide a static view of the customer base, failing to account for evolving customer behaviors and preferences. They also tend to generalize customers within each segment, overlooking individual differences within the same demographic or behavioral group. Moreover, these methods may not effectively leverage the vast amount of customer data available in the digital age.
+
+**Need for a More Dynamic and Personalized Approach:**
+Given these limitations, there is a growing need for a more dynamic and personalized approach to customer segmentation. Modern marketing requires a deeper understanding of individual customer behaviors, needs, and preferences. This involves leveraging advanced analytics and machine learning techniques to analyze customer data in real-time, enabling more personalized and targeted marketing strategies. Such an approach can lead to improved customer engagement, loyalty, and ultimately, business performance.
 
 **Clustering Techniques:**
 Clustering is a technique that groups together customers with similar characteristics. It's used to target marketing efforts to a specific group of people who are more likely to be interested in a product or service. Various clustering algorithms such as k-means and hierarchical clustering are used in marketing for customer segmentation.
