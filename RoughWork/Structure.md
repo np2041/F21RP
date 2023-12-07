@@ -1,6 +1,6 @@
 **1 Abstract**
 
-**2.2 Literature Review:**
+**2 Literature Review:**
 
 **2.1 Customer Segmentation in Marketing:**
 
